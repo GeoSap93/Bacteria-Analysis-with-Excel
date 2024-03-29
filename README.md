@@ -12,10 +12,10 @@ After completing the data cleaning process, I transitioned to data analysis. I i
 
 Stage 3: Data Visualization & Communication
 
-    # Pie Chart: How many bacteria are harmful to humans?
+- Pie Chart: How many bacteria are harmful to humans?
 
-      By looking at the visualization, 47.7% of the bacteria in the current list are harmful for humans when the rest 52.3% is beneficial for us.
+  Upon reviewing the visualization, it is evident that 47.7% of the bacteria included in the current list are classified as harmful to humans, while the remaining 52.3% are deemed beneficial.
 
-    # Bar Chart: Where can you find bacteria that are neutral for human?
+- Bar Chart: Where can you find bacteria that are neutral for human?
 
-      There are bacteria that live in different environments like contaminated water, water systems and infected animals that are harmful for our body. Also, bacteria that are found on skin, nasal passages, throat,       lungs etc. can be harmful too. On the contrary, bacteria that belong to the human body, intestines,unfected wounds or ecosystems with freshwater, hot springs, sugary, salty and deep see environments, salt           lakes, even radioactive environments are not harmful for us. This analysis shows that some bacteria that live with us or in our surroundings are important and essential for our survival. 
+Various types of bacteria inhabit a range of environments, including contaminated water, water systems, and infected animals, which can pose health risks to humans. Additionally, bacteria located on the skin, nasal passages, throat, and lungs can also be harmful. In contrast, bacteria that are part of the human body, such as those found in the intestines, uninfected wounds, and ecosystems like freshwater, hot springs, sugary, salty, and deep-sea environments, as well as salt lakes and even radioactive environments, are not harmful to us. This analysis demonstrates that certain bacteria that coexist with us or in our surroundings play a crucial and beneficial role in our survival.
