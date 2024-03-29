@@ -12,8 +12,8 @@ After cleaning my data, I moved to data analysis. I found the total amount of ba
 
 Stage 3: Data Visualization & Communication
 
-#Pie Chart: How many bacteria are harmful to humans?
+# Pie Chart: How many bacteria are harmful to humans?
 
 By looking at the visualization, 47.7% of the bacteria in the current list are harmful for humans when the rest 52.3% is beneficial for us.
 
-#Bar Chart: Where can you find bacteria that are neutral for human?
+# Bar Chart: Where can you find bacteria that are neutral for human?
