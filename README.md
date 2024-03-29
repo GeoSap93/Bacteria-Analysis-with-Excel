@@ -17,3 +17,5 @@ Stage 3: Data Visualization & Communication
 By looking at the visualization, 47.7% of the bacteria in the current list are harmful for humans when the rest 52.3% is beneficial for us.
 
 # Bar Chart: Where can you find bacteria that are neutral for human?
+
+There are bacteria that live in different environments like contaminated water, water systems and infected animals that are harmful for our body. Also, bacteria that are found on skin, nasal passages, throat, lungs etc. can be harmful too. On the contrary, bacteria that belong to the human body, intestines,unfected wounds or ecosystems with freshwater, hot springs, sugary, salty and deep see environments, salt lakes, even radioactive environments are not harmful for us. This analysis shows that some bacteria that live with us or in our surroundings are important and essential for our survival. 
