@@ -8,4 +8,12 @@ I used a new excel sheet to clean the row data. Firstly, I remove duplicates and
 
 Stage 2: Data Analysis
 
+After cleaning my data, I moved to data analysis. I found the total amount of bacteria, the families and all the different places bacteria can be found. Furthermore, I calculated the amount of bacteria that are harmful for human and the ones that are not. 
+
 Stage 3: Data Visualization & Communication
+
+#Pie Chart: How many bacteria are harmful to humans?
+
+By looking at the visualization, 47.7% of the bacteria in the current list are harmful for humans when the rest 52.3% is beneficial for us.
+
+#Bar Chart: Where can you find bacteria that are neutral for human?
